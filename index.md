@@ -43,6 +43,13 @@ Para começar a trabalhar com a Raspberry Pi, é primeiro necessário seguir os 
   * [Códigos de cores das resistências](images/resistors.jpg)
   * [Esquema do GPIO](images/gpio.png)
 
+# Projeto do workshop
+
+Este projeto visa o comando de um semáforo, simbolizado por 3 LEDs:
+
+1. Ligar LED à Raspberry Pi [(ver esquema e código inicial)](https://github.com/andrefs/jcde2016-rpi);
+1. Fazer o LED piscar com temporização;
+1. Ligar 3 LEDs e simular sequência de semáforo.
 
 # Onde comprar
 
