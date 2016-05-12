@@ -85,7 +85,10 @@ Para projetos de eletrónica também é conveniente comprar componentes como res
 
 # Lista de livros
 
-* 
+* Asadi, A. (2015a).  *Raspberry Pi - The Complete Manual.* Bournemouth, Dorset, England: Imagine Publishing.
+* Asadi, A. (2015b).  *Raspberry Pi for Beginners.* Bournemouth, Dorset, England: Imagine Publishing.
+* McGrath, M. (2013). *Raspberry Pi In Easy Steps.* Leamington, Warwichshire: In Easy Steps.
+* McManus, S., & Cook, M. (2013). *Raspberry Pi for Dummies.* Hoboken, New Jersey: John Wiley & Sons.
 
 
 # Projectos similares
