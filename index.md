@@ -20,6 +20,7 @@ Por volta de 2008, os avanços tecnológicos na produção de processadores para
 # Que modelos existem?
 
 Desde a primeira versão lançada em 2012, outros modelos têm sido criados. Atualmente, estão disponíveis:
+
 * **Pi 1 Modelo A+** (versão _low cost_ da Raspberry Pi com 256MB de RAM, 1 porta USB)
 * **Pi 1 Modelo B+** (revisão final da Raspberry Pi original com 512MB de RAM, 4 portas USB, 1 porta ethernet)
 * **Pi 2 Modelo B** (similar à Pi 1 Modelo B+, mas com processador 900MHz quad-core ARM Cortex-A7 e 1GB de RAM)
@@ -32,13 +33,8 @@ Para começar a trabalhar com a Raspberry Pi, é primeiro necessário seguir os 
 
 1. Formatar um cartão SD ([instruções](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md)). Em Windows, em vez de fazer a formatação com as ferramentas do sistema, é aconselhado que se use antes uma aplicação como o [FAT32 Format](http://www.ridgecrop.demon.co.uk/guiformat.htm).
 1. Descarregar o NOOBS [aqui](http://www.raspberrypi.org/downloads/). O NOOBS é um gestor de instalação de sistemas operativos (OS), que permite facilmente escolher o OS a usar na Pi. Depois de descarregar, extrair os ficheiros para o cartão SD ([instruções](https://www.raspberrypi.org/help/noobs-setup/)).
-1. Ligar os periféricos à Pi (teclado, rato, monitor, cabo de rede, ...) e ligar a Pi à alimentação (cabo micro-USB).
-
-
-![Ligações básicas da Raspberry Pi. Source: https://leanpub.com/RPiMRE](https://leanpub.com/site_images/RPiMRE/board-04.png)
-
+1. Ligar os periféricos à Pi (teclado, rato, monitor, cabo de rede, ...) e ligar a Pi à alimentação (cabo micro-USB). ![Ligações básicas da Raspberry Pi. Source: https://leanpub.com/RPiMRE](https://leanpub.com/site_images/RPiMRE/board-04.png)
 1. Na primeira utilização, escolher o sistema operativo (na dúvida, instalar o Raspbian).
-
 1. Depois de a Pi iniciar, ligar a Pi à *breadboard*
 
   * [Ligações internas de uma breadboard](images/breadboard.png)
