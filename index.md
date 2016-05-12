@@ -110,7 +110,7 @@ Para projetos de eletrónica também é conveniente comprar componentes como res
 
 ### Glossário
 
-* **HDMI**: 
+* **HDMI**: *High-Definition Multimedia Interface* (HDMI) é uma interface condutiva totalmente digital de áudio e vídeo capaz de transmitir dados não comprimidos (...) -- *fonte: [Wikipedia](https://pt.wikipedia.org/wiki/High-Definition_Multimedia_Interface)*
 
 ### Contactos
 
