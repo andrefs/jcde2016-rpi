@@ -43,9 +43,9 @@ Para começar a trabalhar com a Raspberry Pi, é primeiro necessário seguir os 
 
 1. Depois de a Pi iniciar, ligar a Pi à *breadboard*
 
-  * [Ligações internas de uma breadboard]({{ site.baseurl }}/images/breadboard.png)
-  * [Códigos de cores das resistências]({{ site.baseurl }}/images/resistors.jpg)
-  * [Esquema do GPIO]({{ site.baseurl }}/images/gpio.png)
+  * [Ligações internas de uma breadboard](images/breadboard.png)
+  * [Códigos de cores das resistências](images/resistors.jpg)
+  * [Esquema do GPIO](images/gpio.png)
 
 
 # Onde comprar
