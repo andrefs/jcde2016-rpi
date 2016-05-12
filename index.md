@@ -106,7 +106,7 @@ Para projetos de eletrónica também é conveniente comprar componentes como res
 
 
 ### Links úteis
-[Raspberry Pi connections. Source: www.coolestech.com](http://images.coolestech.com/uploads/2013/06/Untitled.jpg)
+* [Raspberry Pi connections](http://images.coolestech.com/uploads/2013/06/Untitled.jpg) *([fonte](http://www.coolestech.com))*
 
 ### Glossário
 
