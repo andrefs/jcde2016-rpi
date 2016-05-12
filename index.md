@@ -44,7 +44,8 @@ Para começar a trabalhar com o Raspberry Pi, é primeiro necessário seguir os 
 1. Depois de o Pi iniciar, ligar o Pi à *breadboard*
 
   * [Ligações internas de uma breadboard]({{ site.baseurl }}/images/breadboard.png)
-  * [Códigos de cores das resistências]({{ site.baseurl }}/images/resistors.png)
+  * [Códigos de cores das resistências]({{ site.baseurl }}/images/resistors.jpg)
+  * [Esquema do GPIO]({{ site.baseurl }}/images/gpio.png)
 
 
 # Onde comprar
@@ -80,11 +81,12 @@ Para trabalhar com um Raspberry Pi são geralmente precisos vários periféricos
 
 Existe também uma grande quantidade de outros acessórios disponíveis para os vários modelos do Raspberry Pi. Por exemplo, geralmente é boa ideia arranjar uma caixa que proteja o Raspberry Pi, e existem várias disponíveis, como [esta](https://www.raspberrypi.org/products/raspberry-pi-case/), [esta](https://www.adafruit.com/products/1326) ou [esta](http://www.dx.com/p/protective-case-w-camera-hole-for-raspberry-pi-red-431734). Outros exemplos de acessórios são:
 
-* um _dongle WiFi_
-* uma câmara fotográfica
+* _dongle WiFi_
+* câmara de vídeo
+* cartão SD
 * ...
 
-Para projetos de eletrónica também é conveniente comprar componentes como resistências, LEDs, sensores, motores, _jumper cables_, etc, que frequentemente são disponibilizados em kits ([exemplo](http://www.dx.com/p/t-type-expansion-board-breadboard-kit-for-raspberry-pi-b-multicolored-359606)).
+Para projetos de eletrónica também é conveniente comprar componentes como resistências, LEDs, sensores, motores, _jumper wires_ (fios de ligação), etc, que frequentemente são disponibilizados em kits ([exemplo](http://www.dx.com/p/t-type-expansion-board-breadboard-kit-for-raspberry-pi-b-multicolored-359606)).
 
 
 # Lista de livros
