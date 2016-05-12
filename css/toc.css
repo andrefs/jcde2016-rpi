@@ -14,20 +14,18 @@
  */
 
 #toc, .toc, .mw-warning {
-    background-color: #F9F9F9;
-    border: 1px solid #AAAAAA;
     font-size: 95%;
     padding: 5px;
+}
+#toc .tbody {
+    background-color: #F9F9F9;
 }
 #toc h2, .toc h2 {
     border: medium none;
     display: inline;
-    font-size: 100%;
+    font-size: 130%;
     font-weight: bold;
     padding: 0;
-}
-#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle {
-    text-align: center;
 }
 #toc ul, .toc ul {
     list-style-image: none;
