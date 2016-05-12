@@ -26,7 +26,7 @@ Desde a primeira versão lançada em 2012, outros modelos têm sido criados. Atu
 * **Pi 1 Modelo A+** (versão _low cost_ da Raspberry Pi com 256MB de RAM, 1 porta USB)
 * **Pi 1 Modelo B+** (revisão final da Raspberry Pi original com 512MB de RAM, 4 portas USB, 1 porta ethernet)
 * **Pi 2 Modelo B** (similar à Pi 1 Modelo B+, mas com processador 900MHz quad-core ARM Cortex-A7 e 1GB de RAM)
-* **Pi 3 Modelo B** (processador 1.2GHz 64-bit quad-core ARM Cortex-A53, 1GB de RAM, wireless e bluetooth integrados)
+* **Pi 3 Modelo B**, ~37€ (processador 1.2GHz 64-bit quad-core ARM Cortex-A53, 1GB de RAM, wireless e bluetooth integrados)
 * **Pi Zero** (metade do tamanho do modelo A+, processador single-core 1GHz, 512MB de RAM e portas mini-[HDMI](#HDMI) e USB) -- *ESGOTADO*
 
 # Primeiros passos
