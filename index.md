@@ -5,7 +5,7 @@ layout: default
 
 # O que é a Raspberry Pi?
 
-O Raspberry Pi é um minicomputador que se caracteriza pelo seu baixo custo e tamanho reduzido.
+A Raspberry Pi é um minicomputador que se caracteriza pelo seu baixo custo e tamanho reduzido.
 
 ![Raspberry Pi 3 Model B][rpi]
 
@@ -21,7 +21,7 @@ Por volta de 2008, os avanços tecnológicos na produção de processadores para
 
 # Que modelos existem?
 
-Desde a primeira versão lançada em 2012, outros modelos têm sido criados. Atualmente, estão disponíveis: 
+Desde a primeira versão lançada em 2012, outros modelos têm sido criados. Atualmente, estão disponíveis:
 * **Pi 1 Modelo A+** (versão _low cost_ da Raspberry Pi com 256MB de RAM, 1 porta USB)
 * **Pi 1 Modelo B+** (revisão final da Raspberry Pi original com 512MB de RAM, 4 portas USB, 1 porta ethernet)
 * **Pi 2 Modelo B** (similar à Pi 1 Modelo B+, mas com processador 900MHz quad-core ARM Cortex-A7 e 1GB de RAM)
@@ -52,17 +52,17 @@ Para começar a trabalhar com a Raspberry Pi, é primeiro necessário seguir os 
 
 ## Em Portugal
 
-* BotNRoll
+* **BotNRoll**
   * [www.botnroll.com](http://www.botnroll.com)
   * 253 554 214
   * Rua Teixeira de Pascoais nº136, Azurém, 4800-023 Guimarães
-* PtRobotics
+* **PtRobotics**
   * [www.ptrobotics.com](http://www.ptrobotics.com)
   * geral@ptrobotics.com
-* ClickPlus
+* **ClickPlus**
   * [www.clickplus.pt](http://www.clickplus.pt)
   * info@clickplus.pt
-* GlobalData
+* **GlobalData**
   * [www.globaldata.pt](http://www.globaldata.pt)
   * 222 011 151
   * Rua de Gonçalo Cristóvão, 132, 4000-264 Porto
@@ -77,7 +77,7 @@ Para começar a trabalhar com a Raspberry Pi, é primeiro necessário seguir os 
 
 # Acessórios
 
-Para trabalhar com um Raspberry Pi são geralmente precisos vários periféricos: monitor, rato, teclado. 
+Para trabalhar com um Raspberry Pi são geralmente precisos vários periféricos: monitor, rato, teclado.
 
 Existe também uma grande quantidade de outros acessórios disponíveis para os vários modelos da Raspberry Pi. Por exemplo, geralmente é boa ideia arranjar uma caixa que proteja a Raspberry Pi, e existem várias disponíveis, como [esta](https://www.raspberrypi.org/products/raspberry-pi-case/), [esta](https://www.adafruit.com/products/1326) ou [esta](http://www.dx.com/p/protective-case-w-camera-hole-for-raspberry-pi-red-431734). Outros exemplos de acessórios são:
 
@@ -92,6 +92,7 @@ Para projetos de eletrónica também é conveniente comprar componentes como res
 # Lista de livros
 
 * 
+
 
 # Projectos similares
 
