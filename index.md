@@ -35,7 +35,7 @@ Para começar a trabalhar com a Raspberry Pi, é primeiro necessário seguir os 
 1. Descarregar o NOOBS [aqui](http://www.raspberrypi.org/downloads/). O NOOBS é um gestor de instalação de sistemas operativos (OS), que permite facilmente escolher o OS a usar na Pi. Depois de descarregar, extrair os ficheiros para o cartão SD ([instruções](https://www.raspberrypi.org/help/noobs-setup/)).
 1. Ligar os periféricos à Pi (teclado, rato, monitor, cabo de rede, ...) e ligar a Pi à alimentação (cabo micro-USB). ![Ligações básicas da Raspberry Pi. Source: https://leanpub.com/RPiMRE](https://leanpub.com/site_images/RPiMRE/board-04.png)
 1. Na primeira utilização, escolher o sistema operativo (na dúvida, instalar o Raspbian).
-1. Depois de a Pi iniciar, ligar a Pi à *breadboard*
+1. Depois de a Pi iniciar, ligar a Pi à [breadboard](#breadboard).
 
   * [Ligações internas de uma breadboard](images/breadboard.png)
   * [Códigos de cores das resistências](images/resistors.jpg)
@@ -101,7 +101,8 @@ Para projetos de eletrónica também é conveniente comprar componentes como res
 
 # Glossário
 
-* **HDMI**: *High-Definition Multimedia Interface* (HDMI) é uma interface condutiva totalmente digital de áudio e vídeo capaz de transmitir dados não comprimidos (...) -- *fonte: [Wikipedia](https://pt.wikipedia.org/wiki/High-Definition_Multimedia_Interface)*
+* <a name="HDMI">**HDMI**</a>: *High-Definition Multimedia Interface* (HDMI) é uma interface condutiva totalmente digital de áudio e vídeo capaz de transmitir dados não comprimidos (...) -- *fonte: [Wikipedia](https://pt.wikipedia.org/wiki/High-Definition_Multimedia_Interface)*
+* <a name="breadboard">**breadboard**</a>: (...) é uma placa com furos (ou orifícios) e conexões condutoras para montagem de circuitos elétricos experimentais. -- *fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Placa_de_Ensaio)*
 
 # Links úteis
 
