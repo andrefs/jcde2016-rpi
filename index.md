@@ -7,9 +7,7 @@ layout: default
 
 A Raspberry Pi é um minicomputador que se caracteriza pelo seu baixo custo e tamanho reduzido.
 
-![Raspberry Pi 3 Model B][rpi]
-
-[rpi]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Raspberry_Pi_3_Model_B.png/450px-Raspberry_Pi_3_Model_B.png "Raspberry Pi 3 Modelo B"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Raspberry_Pi_3_Model_B.png/450px-Raspberry_Pi_3_Model_B.png" alt="Raspberry Pi 3 Modelo B" align="right" />
 
 A ideia inicial surgiu por volta de 2006 na Universidade de Cambridge, quando se detetou que os estudantes que frequentavam as primeiras cadeiras de ciências da computação tinham cada vez menos conhecimentos prévios de programação: se nos anos 90 era comum a maior parte dos alunos programarem nos tempos livres, nos anos 2000 o candidato típico tinha feito apenas um pouco de _web design_.
 
