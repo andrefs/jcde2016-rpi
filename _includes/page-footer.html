@@ -5,9 +5,15 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/js/jquery.toc.js"></script>
-<script>
-$('.main_content').toc({
-    minItemsToShowToc:0
+
+<script type="text/javascript">
+$(function() {
+  $('.main-content').toc({
+    minItemsToShowToc:0,
+    showAlways:true,
+    renderIn:'#renderIn',
+    hideText:'Esconder',
+    showText:'Mostrar'
+  });
 });
 </script>
-
