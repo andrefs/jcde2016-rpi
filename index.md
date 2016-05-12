@@ -1,5 +1,6 @@
 ---
 title: JCDE 2016 -- Raspberry Pi
+layout: default
 ---
 
 # JCDE 2016 -- Raspberry Pi
