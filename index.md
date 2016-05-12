@@ -116,6 +116,6 @@ Para projetos de eletrónica também é conveniente comprar componentes como res
 
 # Contactos
 
-* andrefs [at] andrefs [dot] com
 * luispsantos [at] sapo [dot] pt
+* andrefs [at] andrefs [dot] com
 
