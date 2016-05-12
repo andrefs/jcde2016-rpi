@@ -54,17 +54,17 @@ Para começar a trabalhar com o Raspberry Pi, é primeiro necessário seguir os 
 #### Em Portugal
 
 * BotNRoll
-  * www.botnroll.com
+  * [www.botnroll.com](http://www.botnroll.com)
   * 253 554 214
   * Rua Teixeira de Pascoais nº136, Azurém, 4800-023 Guimarães
 * PtRobotics
-  * www.ptrobotics.com
+  * [www.ptrobotics.com](http://www.ptrobotics.com)
   * geral@ptrobotics.com
 * ClickPlus
-  * www.clickplus.pt
+  * [www.clickplus.pt](http://www.clickplus.pt)
   * info@clickplus.pt
 * GlobalData
-  * www.globaldata.pt
+  * [www.globaldata.pt](http://www.globaldata.pt)
   * 222 011 151
   * Rua de Gonçalo Cristóvão, 132, 4000-264 Porto
 
@@ -72,8 +72,8 @@ Para começar a trabalhar com o Raspberry Pi, é primeiro necessário seguir os 
 #### Internacional
 
 * [eud.dx.com](http://eud.dx.com)
-* www.adafruit.com
-* www.sparkfun.com
+* [www.adafruit.com](http://www.adafruit.com)
+* [www.sparkfun.com](http://www.sparkfun.com)
 * [shop.cyntech.co.uk](http://shop.cyntech.co.uk)
 
 ### Acessórios
