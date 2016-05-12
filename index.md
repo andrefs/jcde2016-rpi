@@ -41,6 +41,11 @@ Para começar a trabalhar com o Raspberry Pi, é primeiro necessário seguir os 
 
 ![Raspberry Pi connections. Source: https://leanpub.com/RPiMRE](https://leanpub.com/site_images/RPiMRE/board-04.png)
 
+1. Depois de o Pi iniciar, ligar o Pi à *breadboard*
+
+[Ligações internas de uma breadboard]({{ site.baseurl }}/images/breadboard.png)
+
+
 
 1. Na primeira utilização, escolher o sistema operativo (na dúvida, instalar o Raspbian).
 
