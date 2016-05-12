@@ -3,7 +3,7 @@ title: JCDE 2016 -- Raspberry Pi
 layout: default
 ---
 
-# O que é o Raspberry Pi?
+# O que é a Raspberry Pi?
 
 O Raspberry Pi é um minicomputador que se caracteriza pelo seu baixo custo e tamanho reduzido.
 
@@ -22,26 +22,26 @@ Por volta de 2008, os avanços tecnológicos na produção de processadores para
 # Que modelos existem?
 
 Desde a primeira versão lançada em 2012, outros modelos têm sido criados. Atualmente, estão disponíveis: 
-* **Pi 1 Modelo A+** (versão _low cost_ do Raspberry Pi com 256MB de RAM, 1 porta USB)
-* **Pi 1 Modelo B+** (revisão final do Raspberry Pi original com 512MB de RAM, 4 portas USB, 1 porta ethernet)
-* **Pi 2 Modelo B** (similar ao Pi 1 Modelo B+, mas com processador 900MHz quad-core ARM Cortex-A7 e 1GB de RAM)
+* **Pi 1 Modelo A+** (versão _low cost_ da Raspberry Pi com 256MB de RAM, 1 porta USB)
+* **Pi 1 Modelo B+** (revisão final da Raspberry Pi original com 512MB de RAM, 4 portas USB, 1 porta ethernet)
+* **Pi 2 Modelo B** (similar à Pi 1 Modelo B+, mas com processador 900MHz quad-core ARM Cortex-A7 e 1GB de RAM)
 * **Pi 3 Modelo B** (processador 1.2GHz 64-bit quad-core ARM Cortex-A53, 1GB de RAM, wireless e bluetooth integrados)
 * **Pi Zero** (metade do tamanho do modelo A+, processador single-core 1Ghz, 512MB de RAM e portas mini-[HDMI](#HDMI) e USB) -- *ESGOTADO*
 
 # Primeiros passos
 
-Para começar a trabalhar com o Raspberry Pi, é primeiro necessário seguir os seguintes passos:
+Para começar a trabalhar com a Raspberry Pi, é primeiro necessário seguir os seguintes passos:
 
 1. Formatar um cartão SD ([instruções](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md)). Em Windows, em vez de fazer a formatação com as ferramentas do sistema, é aconselhado que se use antes uma aplicação como o [FAT32 Format](http://www.ridgecrop.demon.co.uk/guiformat.htm).
-1. Descarregar o NOOBS [aqui](http://www.raspberrypi.org/downloads/). O NOOBS é um gestor de instalação de sistemas operativos (OS), que permite facilmente escolher o OS a usar no Pi. Depois de descarregar, extrair os ficheiros para o cartão SD ([instruções](https://www.raspberrypi.org/help/noobs-setup/)).
-1. Ligar os periféricos ao Pi (teclado, rato, monitor, cabo de rede, ...) e ligar o Pi à alimentação (cabo micro-USB).
+1. Descarregar o NOOBS [aqui](http://www.raspberrypi.org/downloads/). O NOOBS é um gestor de instalação de sistemas operativos (OS), que permite facilmente escolher o OS a usar na Pi. Depois de descarregar, extrair os ficheiros para o cartão SD ([instruções](https://www.raspberrypi.org/help/noobs-setup/)).
+1. Ligar os periféricos à Pi (teclado, rato, monitor, cabo de rede, ...) e ligar a Pi à alimentação (cabo micro-USB).
 
 
-![Ligações básicas do Raspberry Pi. Source: https://leanpub.com/RPiMRE](https://leanpub.com/site_images/RPiMRE/board-04.png)
+![Ligações básicas da Raspberry Pi. Source: https://leanpub.com/RPiMRE](https://leanpub.com/site_images/RPiMRE/board-04.png)
 
 1. Na primeira utilização, escolher o sistema operativo (na dúvida, instalar o Raspbian).
 
-1. Depois de o Pi iniciar, ligar o Pi à *breadboard*
+1. Depois de a Pi iniciar, ligar a Pi à *breadboard*
 
   * [Ligações internas de uma breadboard]({{ site.baseurl }}/images/breadboard.png)
   * [Códigos de cores das resistências]({{ site.baseurl }}/images/resistors.jpg)
@@ -79,7 +79,7 @@ Para começar a trabalhar com o Raspberry Pi, é primeiro necessário seguir os 
 
 Para trabalhar com um Raspberry Pi são geralmente precisos vários periféricos: monitor, rato, teclado. 
 
-Existe também uma grande quantidade de outros acessórios disponíveis para os vários modelos do Raspberry Pi. Por exemplo, geralmente é boa ideia arranjar uma caixa que proteja o Raspberry Pi, e existem várias disponíveis, como [esta](https://www.raspberrypi.org/products/raspberry-pi-case/), [esta](https://www.adafruit.com/products/1326) ou [esta](http://www.dx.com/p/protective-case-w-camera-hole-for-raspberry-pi-red-431734). Outros exemplos de acessórios são:
+Existe também uma grande quantidade de outros acessórios disponíveis para os vários modelos da Raspberry Pi. Por exemplo, geralmente é boa ideia arranjar uma caixa que proteja a Raspberry Pi, e existem várias disponíveis, como [esta](https://www.raspberrypi.org/products/raspberry-pi-case/), [esta](https://www.adafruit.com/products/1326) ou [esta](http://www.dx.com/p/protective-case-w-camera-hole-for-raspberry-pi-red-431734). Outros exemplos de acessórios são:
 
 * _dongle WiFi_
 * câmara de vídeo
@@ -110,7 +110,7 @@ Para projetos de eletrónica também é conveniente comprar componentes como res
 
 # Links úteis
 
-* [Ligações detalhadas do Raspberry Pi](http://images.coolestech.com/uploads/2013/06/Untitled.jpg) *([fonte](http://www.coolestech.com))*
+* [Ligações detalhadas da Raspberry Pi](http://images.coolestech.com/uploads/2013/06/Untitled.jpg) *([fonte](http://www.coolestech.com))*
 
 
 # Contactos
