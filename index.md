@@ -39,7 +39,7 @@ Para começar a trabalhar com o Raspberry Pi, é primeiro necessário seguir os 
 1. Ligar os periféricos ao Pi (teclado, rato, monitor, cabo de rede, ...) e ligar o Pi à alimentação (cabo micro-USB).
 
 
-![Raspberry Pi connections. Source: https://leanpub.com/RPiMRE](https://leanpub.com/site_images/RPiMRE/board-04.png)
+![Ligações básicas do Raspberry Pi. Source: https://leanpub.com/RPiMRE](https://leanpub.com/site_images/RPiMRE/board-04.png)
 
 1. Na primeira utilização, escolher o sistema operativo (na dúvida, instalar o Raspbian).
 
@@ -89,10 +89,6 @@ Existe também uma grande quantidade de outros acessórios disponíveis para os 
 Para projetos de eletrónica também é conveniente comprar componentes como resistências, LEDs, sensores, motores, _jumper cables_, etc, que frequentemente são disponibilizados em kits ([exemplo](http://www.dx.com/p/t-type-expansion-board-breadboard-kit-for-raspberry-pi-b-multicolored-359606)).
 
 
-### Sugestões de atividades
-
-
-
 ### Lista de livros
 
 * 
@@ -104,13 +100,18 @@ Para projetos de eletrónica também é conveniente comprar componentes como res
 * [Banana Pi](http://www.bananapi.org/)
 
 
+* [Arduino](https://www.arduino.cc/)
 
-### Links úteis
-* [Raspberry Pi connections](http://images.coolestech.com/uploads/2013/06/Untitled.jpg) *([fonte](http://www.coolestech.com))*
+
 
 ### Glossário
 
 * **HDMI**: *High-Definition Multimedia Interface* (HDMI) é uma interface condutiva totalmente digital de áudio e vídeo capaz de transmitir dados não comprimidos (...) -- *fonte: [Wikipedia](https://pt.wikipedia.org/wiki/High-Definition_Multimedia_Interface)*
+
+### Links úteis
+
+* [Ligações detalhadas do Raspberry Pi](http://images.coolestech.com/uploads/2013/06/Untitled.jpg) *([fonte](http://www.coolestech.com))*
+
 
 ### Contactos
 
