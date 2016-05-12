@@ -92,7 +92,7 @@ Existe também uma grande quantidade de outros acessórios disponíveis para os 
 Para projetos de eletrónica também é conveniente comprar componentes como resistências, LEDs, sensores, motores, _jumper wires_ (fios de ligação), etc., que frequentemente são disponibilizados em kits ([exemplo](http://www.dx.com/p/t-type-expansion-board-breadboard-kit-for-raspberry-pi-b-multicolored-359606)).
 
 
-# Lista de livros
+# Livros
 
 * Asadi, A. (2015a).  *Raspberry Pi - The Complete Manual.* Bournemouth, Dorset, England: Imagine Publishing.
 * Asadi, A. (2015b).  *Raspberry Pi for Beginners.* Bournemouth, Dorset, England: Imagine Publishing.
@@ -100,16 +100,12 @@ Para projetos de eletrónica também é conveniente comprar componentes como res
 * McManus, S., & Cook, M. (2013). *Raspberry Pi for Dummies.* Hoboken, New Jersey: John Wiley & Sons.
 
 
-# Projectos similares
+# Produtos similares
 
 * [Tessel](https://tessel.io/)
 * [BeagleBone](http://beagleboard.org/bone)
 * [Banana Pi](http://www.bananapi.org/)
-
-
 * [Arduino](https://www.arduino.cc/)
-
-
 
 # Glossário
 
