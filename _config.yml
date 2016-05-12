@@ -1,6 +1,5 @@
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
+# Setup
+title:        JCDE2016 Raspberry Pi workshop
+tagline:      Documentation for JCDE2016 Raspberry Pi workshop
+baseurl:      "http://andrefs.github.io/jcde2016-rpi"
+
